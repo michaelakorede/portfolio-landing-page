@@ -14,6 +14,7 @@ Static, responsive portfolio landing page for IT, cloud infrastructure, systems 
 │   └── script.js
 └── assets/
     ├── docs/
+    │   ├── Michael_Fakorede_CV.pdf
     │   ├── Michael_Fakorede_Systems_Administrator.docx
     │   ├── Michael_Fakorede_Infrastructure_Support_Engineer.docx
     │   ├── Michael_Fakorede_IT_Specialist.docx
@@ -51,7 +52,7 @@ Notes:
 
 - The page uses only local assets and no external framework.
 - The hero image is generated and stored locally.
-- Microsoft 365 and Windows Server appear as clear placeholders because those specific details were not present in the supplied resume content.
+- The main portfolio content is based on `Michael_Fakorede_CV.pdf`.
 
 ## Deploy To GitHub Pages
 
